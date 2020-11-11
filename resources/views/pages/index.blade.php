@@ -25,7 +25,7 @@
 									<h3>Women's
 										Fashion
 										<br>50% Off</h3>
-									<a href="#" class="shop-button btn">
+									<a href="/dashboard" class="shop-button btn">
 										Shop Now
 									</a>
 

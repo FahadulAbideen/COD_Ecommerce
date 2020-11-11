@@ -12,7 +12,7 @@
           <nav aria-label="breadcrumb">
             <h2 class="hny-title text-center">Contact Us</h2>
             <ol class="breadcrumb mb-0">
-              <li><a href="index.html">Home</a>
+              <li><a href="/">Home</a>
                 <span class="fa fa-angle-double-right"></span></li>
               <li class="active">Contact</li>
             </ol>
